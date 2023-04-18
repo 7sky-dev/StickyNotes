@@ -1,0 +1,20 @@
+body {
+  background-color: #111111 !important;
+}
+
+p {
+  color: gray;
+  line-height: 0;
+}
+
+.note {
+  width: 25%;
+  height: 25%;
+  background-color: rgba(53, 28, 117, 0.5) !important;
+  color: white !important;
+}
+
+.btn-submit {
+  background-color: #4672fe;
+  color: white;
+}
